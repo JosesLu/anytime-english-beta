@@ -1,0 +1,22 @@
+{
+  "name": "anytime-english-beta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosesLu/anytime-english-beta.git"
+  },
+  "author": "Joses Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosesLu/anytime-english-beta/issues"
+  },
+  "homepage": "https://github.com/JosesLu/anytime-english-beta#readme",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
